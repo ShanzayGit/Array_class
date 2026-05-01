@@ -1,6 +1,6 @@
 # Array_class
 
-##Overview
+## Overview
 This project implements a **templated dynamic array class in C++**, built from scratch to explore memory management, operator overloading, and object-oriented programming concepts.  
 Unlike `std::vector`, this array provides a minimal but educational interface for resizing, indexing, and stream operations.
 
@@ -25,10 +25,10 @@ Array_class/
 4. Build and run with **Ctrl+F5**.
 
 ### 🔹 On Linux/Mac (g++)
-
+```
 g++ main.cpp -o array_app
 ./array_app
-
+```
 
 ## 🧩 Example Usage
 
