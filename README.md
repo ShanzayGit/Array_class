@@ -11,7 +11,7 @@ Unlike `std::vector`, this array provides a minimal but educational interface fo
 Array_class/
 - Templated_Array.h            # Header file (class definition and implementation)
 - Array_class.sln    # Visual Studio solution file
-- main.cpp           # Example usage (to be added)
+- main.cpp           # Example usage 
 - .gitignore
 - .gitattributes
 
@@ -20,7 +20,7 @@ Array_class/
 
 ### 🔹 On Windows (Visual Studio)
 1. Open `Array_class.sln` in Visual Studio.
-2. Add `Array.h` (and `Array.cpp` if separated) to your project.
+2. Add `Templated_Array.h`  to your project.
 3. Create a `main.cpp` file with sample usage.
 4. Build and run with **Ctrl+F5**.
 
