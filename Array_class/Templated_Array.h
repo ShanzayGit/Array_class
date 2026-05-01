@@ -154,7 +154,7 @@ ostream& operator<<(ostream& os, const Array<T>& a)
 {
 	for (int i = 0; i < a.getSize(); i++)
 	{
-		os << a[i];
+		os << a[i]<<" , ";
 	}
 	return os;
 }
