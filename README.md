@@ -40,8 +40,8 @@ g++ main.cpp -o array_app
 
 **Expected Output:**
 Array size: 5
-Elements: 12345
-After resize to 3: 123
+Elements: 1 , 2 , 3 , 4 , 5
+After resize to 3: 1 , 2 , 3
 
 
 ## 🚀 Features Implemented
